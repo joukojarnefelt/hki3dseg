@@ -4,17 +4,65 @@
 	},
 	"properties" : {
 		"gml_id" : {},
-		"citygml_year_of_construction" : {}
+		"gml_parent_id" : {},
+		"citygml_target_uri" : {},
+		"citygml_feature_role" : {},
+		"citygml_feature_role_attr_name" : {},
+		"citygml_feature_role_attr_val" : {},
+		"gml_description" : {},
+		"gml_name" : {},
+		"citygml_creationDate" : {},
+		"citygml_terminationDate" : {},
+		"externalReference{}.externalObject.name" : {},
+		"externalReference{}.externalObject.uri" : {},
+		"externalReference{}.informationSystem" : {},
+		"citygml_generalizes_to{}.xlink_href" : {},
+		"citygml_relative_to_terrain" : {},
+		"citygml_relative_to_water" : {},
+		"citygml_level_of_detail{}" : {},
+		"citygml_opening{}.xlink_href" : {},
+		"citygml_address" : {},
+		"citygml_address{}.xlink_href" : {},
+		"citygml_bounded_by{}.xlink_href" : {},
+		"citygml_city_object_member{}.xlink_href" : {},
+		"citygml_class" : {},
+		"citygml_class_codeSpace" : {},
+		"citygml_consists_of_building_part{}.xlink_href" : {},
+		"citygml_function{}" : {},
+		"citygml_function{}.codeSpace" : {},
+		"citygml_interior_building_installation{}.xlink_href" : {},
+		"citygml_interior_furniture{}.xlink_href" : {},
+		"citygml_interior_room{}.xlink_href" : {},
+		"citygml_measured_height" : {
+			"minimum" : 1.98,
+			"maximum" : 25.09
+		},
+		"citygml_measured_height_units" : {},
+		"citygml_outer_building_installation{}.xlink_href" : {},
+		"citygml_roof_type" : {},
+		"citygml_roof_type_codeSpace" : {},
+		"citygml_room_installation{}.xlink_href" : {},
+		"citygml_storey_heights_above_ground" : {},
+		"citygml_storey_heights_above_ground_units" : {},
+		"citygml_storey_heights_below_ground" : {},
+		"citygml_storey_heights_below_ground_units" : {},
+		"citygml_storeys_above_ground" : {},
+		"citygml_storeys_below_ground" : {},
+		"citygml_usage{}" : {},
+		"citygml_usage{}.codeSpace" : {},
+		"citygml_year_of_construction" : {},
+		"citygml_year_of_demolition" : {},
+		"gml_feature_member{}.xlink_href" : {}
 	},
-	"geometricError" : 91.18720215559006,
+	"geometricError" : 91.18720215326175,
 	"root" : {
 		"boundingVolume" : {
-			"box" : [ 2873952.6329324534, 1347153.5713948426, 5513820.846505267, 415.87130834627897, 0, 0, 0, 1046.5923327959608, 0, 0, 0, 265.0369085241109 ]
+			"box" : [ 2873952.6329122884, 1347153.57138539, 5513820.846569743, 415.8713083467446, 0, 0, 0, 1046.5923327868804, 0, 0, 0, 265.03690852597356 ]
 		},
 		"refine" : "ADD",
 		"content" : {
 			"boundingVolume" : {
-				"box" : [ 2873952.6329324534, 1347153.5713948426, 5513820.846505267, 415.87130834627897, 0, 0, 0, 1046.5923327959608, 0, 0, 0, 265.0369085241109 ]
+				"box" : [ 2873952.6329122884, 1347153.57138539, 5513820.846569743, 415.8713083467446, 0, 0, 0, 1046.5923327868804, 0, 0, 0, 265.03690852597356 ]
 			},
 			"url" : "data/data0.b3dm"
 		}
