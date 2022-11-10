@@ -1,0 +1,109 @@
+{
+	"asset" : {
+		"version" : "0.0"
+	},
+	"properties" : {
+		"gml_id" : {},
+		"nimi_fi" : {},
+		"_predicate" : {},
+		"kuntarekisteri_id" : {
+			"minimum" : 30062,
+			"maximum" : 5127810
+		},
+		"ratu" : {
+			"minimum" : 30062,
+			"maximum" : 68071
+		},
+		"vtj_prt" : {},
+		"i_pyraknro" : {
+			"minimum" : 30062,
+			"maximum" : 68071
+		},
+		"i_kokala" : {
+			"minimum" : 83,
+			"maximum" : 18772
+		},
+		"i_kerrosala" : {
+			"minimum" : 83,
+			"maximum" : 18772
+		},
+		"i_kerrlkm" : {
+			"minimum" : 1,
+			"maximum" : 5
+		},
+		"i_huoneistojen_lkm" : {},
+		"d_ashuoala" : {
+			"minimum" : 45,
+			"maximum" : 5333
+		},
+		"c_valmpvm" : {},
+		"c_kiinteistotunnus" : {},
+		"c_kayttark" : {},
+		"_count" : {
+			"minimum" : 778,
+			"maximum" : 79306
+		},
+		"id" : {
+			"minimum" : 3,
+			"maximum" : 424
+		},
+		"kohde" : {},
+		"lahiosoite" : {},
+		"hanke" : {},
+		"hankenumer" : {},
+		"aikataulu" : {},
+		"hasu_aikat" : {},
+		"suun_aikat" : {},
+		"rak_alkaa" : {},
+		"rahoitusva" : {},
+		"_distance" : {
+			"minimum" : 1.9363942262529366,
+			"maximum" : 436.5166436125396
+		},
+		"_angle" : {
+			"minimum" : 30.237726138654736,
+			"maximum" : 352.81555636582016
+		},
+		"_candidate_angle" : {
+			"minimum" : 0,
+			"maximum" : 0
+		},
+		"_candidate_label_angle" : {
+			"minimum" : 0,
+			"maximum" : 0
+		},
+		"_closest_candidate_x" : {
+			"minimum" : 25502893,
+			"maximum" : 25506804
+		},
+		"_closest_candidate_y" : {
+			"minimum" : 6679085,
+			"maximum" : 6681110.98
+		},
+		"_closest_base_x" : {
+			"minimum" : 25502856.86473903,
+			"maximum" : 25506802.81050989
+		},
+		"_closest_base_y" : {
+			"minimum" : 6679109.6383,
+			"maximum" : 6681109.052752493
+		},
+		"_related_suppliers" : {
+			"minimum" : 1,
+			"maximum" : 1
+		}
+	},
+	"geometricError" : 144.91376990266144,
+	"root" : {
+		"boundingVolume" : {
+			"box" : [ 2875011.251046259, 1345918.038024666, 5513477.352505293, 1950.5423649414442, 0, 0, 0, 3819.2829425944947, 0, 0, 0, 1022.5257163522765 ]
+		},
+		"refine" : "ADD",
+		"content" : {
+			"boundingVolume" : {
+				"box" : [ 2875011.251046259, 1345918.038024666, 5513477.352505293, 1950.5423649414442, 0, 0, 0, 3819.2829425944947, 0, 0, 0, 1022.5257163522765 ]
+			},
+			"url" : "data/data0.b3dm"
+		}
+	}
+}
